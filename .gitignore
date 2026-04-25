@@ -1,0 +1,18 @@
+# Compiled output
+out/
+*.class
+
+# Database file (don't commit the actual DB)
+restaurant.db
+
+# IDE files
+.idea/
+*.iml
+.eclipse/
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
